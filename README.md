@@ -1,4 +1,18 @@
-- 👋 Hi, I’m @Nagaveni2004
+- 👋 Hi, I’m Nagaveni L S
+
+
+
+
+
+
+
+![git](https://github.com/user-attachments/assets/b1ca842c-7cfa-4a35-8881-45c8868d231c)
+
+
+
+
+
+
 - 👀 I’m interested in coding and learning new technologies
 - 🌱 I’m currently learning python and java
 - 📫 How to reach me nagavenils59@gmail.com 
