@@ -1,14 +1,7 @@
 - 👋 Hi, I’m Nagaveni L S
 
 
-
-
-
-
-
-![git](https://github.com/user-attachments/assets/b1ca842c-7cfa-4a35-8881-45c8868d231c)
-
-
+![git 2](https://github.com/user-attachments/assets/d3775ecd-bb66-4ea6-8b0b-a5dd40ed8a2b)
 
 
 
