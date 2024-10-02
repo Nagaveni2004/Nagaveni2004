@@ -13,7 +13,7 @@
 
 📌Fun fact: If I'm not coding you can find me debugging my homework:)
 
-You can reach out to me at nagavenils59@gmail.com:D
+You can reach out to me at nagavenils59@gmail.com 
 
 Here's my linkedlin profile https://www.linkedin.com/in/nagaveni-l-s-a08891258/
 <!---
