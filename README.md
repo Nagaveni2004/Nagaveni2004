@@ -12,6 +12,8 @@
 📌I'm currently interested in learning new technologies like web development and programming languages like python,java
 
 📌Fun fact: If I'm not coding you can find me debugging my homework:)
+
+You can reach out to me at nagavenils59@gmail.com
 <!---
 Nagaveni2004/Nagaveni2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
